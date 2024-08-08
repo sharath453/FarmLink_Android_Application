@@ -4,8 +4,6 @@ FarmLink is an Android application built using Flutter, designed to empower farm
 
 ## Features
 
-## Features
-
 - **Admin Crop Management:** Admins can include newly introduced crops in the system, keeping farmers up-to-date with the latest options.
 - **Government Policies:** Access the latest government policies related to agriculture, subsidies, and other important information.
 - **Farmer Alerts for Policies:** Farmers receive alerts about relevant policies, ensuring they never miss critical updates.
