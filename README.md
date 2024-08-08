@@ -15,36 +15,24 @@ FarmLink is an Android application built using Flutter, designed to empower farm
 
 Here are some screenshots of FarmLink in action:
 
-1. **Home Screen**
-   ![Home Screen](assets\output\loginpage.jpg)
+   ![WhatsApp Image 2024-07-24 at 23 56 23_a8fdba02](https://github.com/user-attachments/assets/8bb2361c-bd9f-4526-b0c9-9d8d0cc7276b)
+   ![WhatsApp Image 2024-07-24 at 23 56 51_983dc8e9](https://github.com/user-attachments/assets/0b1c66d6-04db-43fe-8836-60ff21a86355)
+   ![WhatsApp Image 2024-07-24 at 23 57 27_09abf548](https://github.com/user-attachments/assets/11fe144e-7ca3-4e04-9f2c-d59c1bff4c36)
+   ![WhatsApp Image 2024-07-24 at 23 58 13_52aa8a05](https://github.com/user-attachments/assets/edc95344-22ab-4fb2-8a44-3f3f09ce824e)
+   ![WhatsApp Image 2024-07-24 at 23 58 42_3c4e8866](https://github.com/user-attachments/assets/2c477bb2-2429-4074-919d-2f0b1bc49f46)
+   ![WhatsApp Image 2024-07-24 at 23 59 19_6b2734d9](https://github.com/user-attachments/assets/444397fd-c549-4f44-acd3-b10284c3e825)
+   ![WhatsApp Image 2024-07-25 at 00 00 07_cbce60ac](https://github.com/user-attachments/assets/b0c8e23d-ed10-4d42-ae7c-30630df8f530)
+   ![WhatsApp Image 2024-07-25 at 00 00 07_8376ecfc](https://github.com/user-attachments/assets/3621931d-ff1a-409b-874b-7f012cd8ce8f)
+   ![WhatsApp Image 2024-07-25 at 00 00 37_580ad2a9](https://github.com/user-attachments/assets/a67029fb-d2b4-4287-a463-e50252d7ca32)
+   ![WhatsApp Image 2024-07-25 at 00 00 58_e821c4c1](https://github.com/user-attachments/assets/055bb5c4-25ff-4178-b10a-18e9bdd83b1d)
 
-2. **Crop Management**
-   ![Crop Management](images/crop_management.png)
 
-3. **Resource Management**
-   ![Resource Management](images/resource_management.png)
-
-4. **Weather Updates**
-   ![Weather Updates](images/weather_updates.png)
-
-5. **Expert Advice**
-   ![Expert Advice](images/expert_advice.png)
-
-6. **Market Prices**
-   ![Market Prices](images/market_prices.png)
-
-7. **Community Support**
-   ![Community Support](images/community_support.png)
-
-8. **Add New Crop**
-   ![Add New Crop](images/add_new_crop.png)
-
-9. **Detailed Crop View**
-   ![Detailed Crop View](images/detailed_crop_view.png)
-
-10. **Settings**
-    ![Settings](images/settings.png)
-
+## DataBase Table 
+![WhatsApp Image 2024-07-25 at 00 07 13_f22902a9](https://github.com/user-attachments/assets/4065b33c-b306-4194-9cb2-e83158a86565)
+![WhatsApp Image 2024-07-25 at 00 07 35_15b3af4e](https://github.com/user-attachments/assets/50bfedf4-f9bf-4b5b-8a89-f80b73019a89)
+![WhatsApp Image 2024-07-25 at 00 07 54_5f9477de](https://github.com/user-attachments/assets/fe68fff5-4463-40d2-98bb-c7ff7a955fa8)
+![WhatsApp Image 2024-07-25 at 00 08 10_f0c6c8c8](https://github.com/user-attachments/assets/a2116196-3097-4822-bccc-6369f326f05a)
+![WhatsApp Image 2024-07-25 at 00 08 34_17c17581](https://github.com/user-attachments/assets/2a76b70b-666c-4c29-a402-7cefe657e8c5)
 
 ## Installation
 
