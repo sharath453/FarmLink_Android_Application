@@ -16,7 +16,7 @@ FarmLink is an Android application built using Flutter, designed to empower farm
 Here are some screenshots of FarmLink in action:
 
 1. **Home Screen**
-   ![Home Screen](images/home_screen.png)
+   ![Home Screen](assets\output\loginpage.jpg)
 
 2. **Crop Management**
    ![Crop Management](images/crop_management.png)
